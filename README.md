@@ -1,8 +1,6 @@
 JingjingGuo-spark-interview
 ==============================
 
-Spark Interview for Data Scientist Position at Deloitte HUX 2019
-
 Project Organization
 ------------
 
